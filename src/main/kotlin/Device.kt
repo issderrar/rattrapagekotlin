@@ -7,7 +7,6 @@ class Device {
     var cost: Int = 0
     var pm: Int = 0
     var ca: Int = 0
-    var network: Int = 0
     var month: String? = null
 
 
@@ -20,7 +19,6 @@ class Device {
         cost: Int,
         pm: Int,
         ca: Int,
-        network: Int,
         month: String?
     ) {
         this.year = year
@@ -31,12 +29,11 @@ class Device {
         this.cost = cost
         this.pm = pm
         this.ca = ca
-        this.network = network
         this.month = month
     }
 
     override fun toString(): String {
-        return "Appareil [year=" + year + ", device=" + device + ", commande=" + commande + ", impressions=" + impressions + "" + ", clics=" + clics + ", cost=" + cost + ", pm=" + pm + ", ca=" + ca + ", network=" + network + ", month=" + month + "]"
+        return "Appareil [year=$year, device=$device, commande=$commande, impressions=$impressions, clics=$clics, cost=$cost, pm=$pm, ca=$ca, month=$month]"
     }
 }
 
