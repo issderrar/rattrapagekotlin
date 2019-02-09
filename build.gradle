@@ -11,6 +11,7 @@ repositories {
 
 dependencies {
     compile "org.jetbrains.kotlin:kotlin-stdlib-jdk8"
+    implementation "com.jakewharton.fliptables:fliptables:1.0.2"
 }
 
 compileKotlin {
