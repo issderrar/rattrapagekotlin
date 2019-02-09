@@ -18,27 +18,22 @@ fun main() {
         KpiType.ROI to KpiCalculator(KpiFactory.getKpi(KpiType.ROI), devices),
         KpiType.ROI_PER_DEVICE to KpiCalculator(KpiFactory.getKpi(KpiType.ROI_PER_DEVICE), devices),
         KpiType.TURNOVER_PER_DEVICE to KpiCalculator(KpiFactory.getKpi(KpiType.TURNOVER_PER_DEVICE), devices),
-        KpiType.TURNOVER_PER_MONTH_PER_YEAR to KpiCalculator(
-            KpiFactory.getKpi(KpiType.TURNOVER_PER_MONTH_PER_YEAR),
-            devices
-        )
+        KpiType.TURNOVER_PER_MONTH_PER_YEAR to KpiCalculator(KpiFactory.getKpi(KpiType.TURNOVER_PER_MONTH_PER_YEAR), devices)
     )
-
     displayMenu()
     readInput(kpiToCalculators)
 }
 
 fun displayMenu() {
-    println("Afficher les KPI:")
-    println("1. Le chiffre d’affaires par mois par année")
-    println("2. Le chiffre d’affaires par appareil")
-    println("3. Le panier moyen : Chiffre d’affaires / Commandes")
-    println("4. Le coût par clic : Coût / Clics")
-    println("5. Le taux de clic : (Clics /impression) * 100")
-    println("6. Le ROI : CA Total / Coût ")
-    println("7. Le ROI segmenté par appareil et par mois (uniquement sur 2017)")
+    println("Que voulez vous afficher ?")
+    println("1. Le chiffre d’affaire par mois par année")
+    println("2. Le chiffre d’affaire par appareil")
+    println("3. Le panier moyen")
+    println("4. Le coût par clic")
+    println("5. Le taux de clic")
+    println("6. Le ROI")
+    println("7. Le ROI segmenté par appareil et par mois pour l'année 2017")
     println("8. QUITTER")
-    println()
 }
 
 fun readInput(kpiToCalculators: Map<KpiType, KpiCalculator>) {

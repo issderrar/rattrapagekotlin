@@ -21,10 +21,8 @@ class DataFileReader {
 
             fileReader = BufferedReader(FileReader(file))
 
-            // Read CSV header
             fileReader.readLine()
 
-            // Read the file line by line starting from the second line
             line = fileReader.readLine()
             while (line != null) {
                 val tokens = line.split(";")
