@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/iim.rattrapage.kotlin.iim.rattrape.kotlin.iml" filepath="$PROJECT_DIR$/.idea/modules/iim.rattrapage.kotlin.iim.rattrape.kotlin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/iim.rattrapage.kotlin.iim.rattrape.kotlin.main.iml" filepath="$PROJECT_DIR$/.idea/modules/iim.rattrapage.kotlin.iim.rattrape.kotlin.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/iim.rattrapage.kotlin.iim.rattrape.kotlin.test.iml" filepath="$PROJECT_DIR$/.idea/modules/iim.rattrapage.kotlin.iim.rattrape.kotlin.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/rattrapagekotlin.iml" filepath="$PROJECT_DIR$/.idea/rattrapagekotlin.iml" />
     </modules>
   </component>

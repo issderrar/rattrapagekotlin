@@ -2,34 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d0ff43a7-e150-4d84-b586-fb1a0667483d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/rattrapagekotlin.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/classes/com/issderrar/DataFileReader.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/com/issderrar/DataFileReader.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/issderrar/Device.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/com/issderrar/Device.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/classes/com/issderrar/MainKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/com/issderrar/MainKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/issderrar/kpi/AverageBasketCalculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/com/issderrar/kpi/AverageBasketCalculator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/issderrar/kpi/CostPerClickCalculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/com/issderrar/kpi/CostPerClickCalculator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/issderrar/kpi/KpiCalculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/com/issderrar/kpi/KpiCalculator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/issderrar/kpi/KpiFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/com/issderrar/kpi/KpiFactory.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/classes/com/issderrar/kpi/KpiStrategy.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/com/issderrar/kpi/KpiStrategy.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/issderrar/kpi/KpiType.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/com/issderrar/kpi/KpiType.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/issderrar/kpi/ROICalculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/com/issderrar/kpi/ROICalculator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/issderrar/kpi/ROIPerDevicePerMonthCalculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/com/issderrar/kpi/ROIPerDevicePerMonthCalculator.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/classes/com/issderrar/kpi/RatePerClickCalculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/com/issderrar/kpi/RatePerClickCalculator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/issderrar/kpi/TurnoverPerDeviceCalculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/com/issderrar/kpi/TurnoverPerDeviceCalculator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/issderrar/kpi/TurnoverPerMonthPerYearCalculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/com/issderrar/kpi/TurnoverPerMonthPerYearCalculator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/issderrar/models/FileColumn$Companion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/com/issderrar/models/FileColumn$Companion.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/issderrar/models/FileColumn.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/com/issderrar/models/FileColumn.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/issderrar/DataFileReader.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/com/issderrar/DataFileReader.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/issderrar/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/com/issderrar/Main.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/issderrar/kpi/KpiStrategy.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/com/issderrar/kpi/KpiStrategy.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/issderrar/kpi/RatePerClickCalculator.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/com/issderrar/kpi/RatePerClickCalculator.kt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -47,101 +30,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/issderrar/kpi/ROIPerDevicePerMonthCalculator.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
-              <folding>
-                <element signature="e#27#98#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/issderrar/kpi/TurnoverPerMonthPerYearCalculator.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="461">
-              <caret line="37" column="1" lean-forward="true" selection-start-line="37" selection-start-column="1" selection-end-line="37" selection-end-column="1" />
-              <folding>
-                <element signature="e#27#98#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/issderrar/kpi/RatePerClickCalculator.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/issderrar/kpi/KpiStrategy.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="15" lean-forward="true" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/issderrar/Main.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" column="60" selection-start-line="20" selection-start-column="47" selection-end-line="20" selection-end-column="60" />
+            <state relative-caret-position="228">
+              <caret line="58" lean-forward="true" selection-start-line="58" selection-end-line="58" />
               <folding>
                 <element signature="e#23#149#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/issderrar/kpi/KpiCalculator.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="14" lean-forward="true" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/issderrar/kpi/KpiFactory.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="82" lean-forward="true" selection-start-line="11" selection-start-column="82" selection-end-line="11" selection-end-column="82" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/issderrar/kpi/AverageBasketCalculator.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="99" selection-start-line="7" selection-start-column="99" selection-end-line="7" selection-end-column="99" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/issderrar/kpi/CostPerClickCalculator.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/issderrar/kpi/KpiType.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -196,13 +92,13 @@
         <option value="$PROJECT_DIR$/src/main/kotlin/com/issderrar/kpi/TurnoverPerMonthPerYearCalculator.kt" />
         <option value="$PROJECT_DIR$/src/main/kotlin/com/issderrar/kpi/ROIPerDevicePerMonthCalculator.kt" />
         <option value="$PROJECT_DIR$/gradle.properties" />
-        <option value="$PROJECT_DIR$/build.gradle" />
         <option value="$PROJECT_DIR$/src/main/kotlin/com/issderrar/kpi/RatePerClickCalculator.kt" />
         <option value="$PROJECT_DIR$/src/main/kotlin/com/issderrar/DataFileReader.kt" />
         <option value="$PROJECT_DIR$/src/main/kotlin/com/issderrar/kpi/KpiStrategy.kt" />
         <option value="$PROJECT_DIR$/src/main/kotlin/com/issderrar/kpi/CostPerClickCalculator.kt" />
-        <option value="$PROJECT_DIR$/src/main/kotlin/com/issderrar/Main.kt" />
         <option value="$PROJECT_DIR$/src/main/kotlin/com/issderrar/kpi/KpiCalculator.kt" />
+        <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/com/issderrar/Main.kt" />
       </list>
     </option>
   </component>
@@ -217,25 +113,51 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="rattrapagekotlin" type="b2602c69:ProjectViewProjectNode" />
-              <item name="rattrapagekotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="iim.rattrape.kotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="iim.rattrape.kotlin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="iim.rattrape.kotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="iim.rattrape.kotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="iim.rattrape.kotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="iim.rattrape.kotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="iim.rattrape.kotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="iim.rattrape.kotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="iim.rattrape.kotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="iim.rattrape.kotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="issderrar" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549736344915" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549822815057" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/kotlin" />
     <property name="last_opened_file_path" value="$USER_HOME$/Desktop/rattrapage" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -272,7 +194,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.com.issderrar.MainKt (1)">
+  <component name="RunManager" selected="Kotlin.com.issderrar.MainKt (2)">
     <configuration name="CostperclickKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="iim.rattrape.kotlin.iim.rattrape.kotlin.main" />
       <option name="VM_PARAMETERS" />
@@ -301,6 +223,19 @@
     </configuration>
     <configuration name="com.issderrar.MainKt (1)" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="iim.rattrapagekotlin.iim.rattrape.kotlin.main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.issderrar.MainKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.issderrar.MainKt (2)" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="iim.rattrapage.kotlin.iim.rattrape.kotlin.main" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -343,9 +278,11 @@
       <item itemvalue="Kotlin.CostperclickKt" />
       <item itemvalue="Kotlin.com.issderrar.MainKt" />
       <item itemvalue="Kotlin.com.issderrar.MainKt (1)" />
+      <item itemvalue="Kotlin.com.issderrar.MainKt (2)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.com.issderrar.MainKt (2)" />
         <item itemvalue="Kotlin.com.issderrar.MainKt (1)" />
         <item itemvalue="Kotlin.com.issderrar.MainKt" />
         <item itemvalue="Kotlin.com.issderrar.MainKt" />
@@ -373,7 +310,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="50769000" />
+    <option name="totallyTimeSpent" value="54825000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -385,9 +322,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="1500" height="1047" extended-state="0" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27986112" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25033557" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -396,7 +333,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.33150986" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.44475922" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39943343" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -407,7 +344,7 @@
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
       <window_info anchor="bottom" id="Version Control" order="12" weight="0.32827735" />
-      <window_info anchor="bottom" id="Messages" order="13" weight="0.32827735" />
+      <window_info anchor="bottom" id="Messages" order="13" weight="0.32719547" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -447,9 +384,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/settings.gradle">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/gradlew">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -458,13 +392,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/gradle.properties">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/data_csv.csv">
       <provider selected="true" editor-type-id="text-editor">
@@ -499,25 +426,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/issderrar/kpi/ROICalculator.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="82" selection-start-line="6" selection-start-column="82" selection-end-line="6" selection-end-column="82" />
+        <state relative-caret-position="119">
+          <caret line="7" column="49" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="49" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/issderrar/kpi/ROIPerDevicePerMonthCalculator.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
-          <folding>
-            <element signature="e#27#98#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="300">
+          <caret line="28" column="29" selection-start-line="28" selection-start-column="29" selection-end-line="28" selection-end-column="29" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/issderrar/kpi/RatePerClickCalculator.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+        <state relative-caret-position="153">
+          <caret line="9" column="43" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
+          <folding>
+            <element signature="e#27#98#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -539,16 +466,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/issderrar/Main.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="60" selection-start-line="20" selection-start-column="47" selection-end-line="20" selection-end-column="60" />
-          <folding>
-            <element signature="e#23#149#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -575,10 +492,27 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/issderrar/kpi/TurnoverPerMonthPerYearCalculator.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="461">
-          <caret line="37" column="1" lean-forward="true" selection-start-line="37" selection-start-column="1" selection-end-line="37" selection-end-column="1" />
+        <state relative-caret-position="493">
+          <caret line="30" selection-start-line="30" selection-end-line="37" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings.gradle">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/issderrar/Main.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="58" lean-forward="true" selection-start-line="58" selection-end-line="58" />
           <folding>
-            <element signature="e#27#98#0" expanded="true" />
+            <element signature="e#23#149#0" expanded="true" />
           </folding>
         </state>
       </provider>

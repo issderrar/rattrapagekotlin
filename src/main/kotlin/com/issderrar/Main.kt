@@ -47,23 +47,12 @@ fun readInput(kpiToCalculators: Map<KpiType, KpiCalculator>) {
                 val type = KpiType.values()[number - 1]
                 kpiToCalculators[type]?.computeKpi()
 
-                clearScreen()
-                displayMenu()
             }
         } while (number != 8)
 
-        clearScreen()
-        println("Bye!")
+        println("Aurevoir!")
+
     } catch (e: Exception) {
         readInput(kpiToCalculators)
-    }
-}
-
-fun clearScreen() {
-    val os = System.getProperty("os.name")
-    if (os.contains("Windows")) {
-        Runtime.getRuntime().exec("cls")
-    } else {
-        Runtime.getRuntime().exec("clear")
     }
 }
