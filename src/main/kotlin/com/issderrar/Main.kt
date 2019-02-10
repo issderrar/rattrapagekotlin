@@ -25,6 +25,7 @@ fun main() {
 }
 
 fun displayMenu() {
+    println("Bienvenue sur le rendu d'Issam Derrar et d'Antoine Guenancia.")
     println("Que voulez vous afficher ?")
     println("1. Le chiffre d’affaire par mois par année")
     println("2. Le chiffre d’affaire par appareil")
